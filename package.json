@@ -1,0 +1,22 @@
+{
+  "name": "steam-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spetz83/steam-web.git"
+  },
+  "author": "Tom Etzel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spetz83/steam-web/issues"
+  },
+  "homepage": "https://github.com/spetz83/steam-web#readme",
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  }
+}
